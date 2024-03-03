@@ -1,0 +1,22 @@
+.of{
+    padding-bottom: 50px;
+    font-size: 64px;
+    padding-right: 300px;
+    padding-left: 300px;
+}
+.benefits_main{
+    margin-top: 100px;
+}
+
+
+
+
+
+@media (max-width:767px){
+    .of{
+      
+        font-size: 40px !important;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}

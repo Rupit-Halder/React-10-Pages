@@ -1,0 +1,71 @@
+.policy_main{
+    margin-top: 200px;
+    
+}
+.poiuu{
+    font-size: 55px !important;
+    padding-left: 50px;
+}
+.mnbvvc{
+    font-size: 20px !important;
+   padding-right: 300px;
+   margin-top: 25px;
+}
+.uasgdyhu{
+    font-size: 50px !important;
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+ .husdh{
+    font-size: 23px !important;
+    margin-top: 20px !important;
+ }  
+.hkjhkj{
+    font-size: 23px !important; 
+}
+.tyuftyg{
+    font-size: 50px !important;
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
+.oiuiu{
+    font-size: 23px !important;
+}
+.ksdhnj{
+    font-size: 20px !important;
+    padding-top: 20px !important;
+}
+.rtgfrt8{
+    font-size: 23px !important;
+    padding-top: 20px;
+    margin-bottom: 120px;
+}
+
+
+
+
+
+
+@media (max-width:767px){
+    .mnbvvc {
+        font-size: 20px !important;
+        padding-right: 0px;
+       
+    }
+    .poiuu {
+        font-size: 48px !important;
+        padding-left: 102px;
+    }
+    .uasgdyhu {
+        font-size: 40px !important;
+    }
+    .tyuftyg {
+        font-size: 34px !important;
+    }
+    .ksdhnj {
+        font-size: 18px !important;
+    }
+    .rtgfrt8 {
+        font-size: 21px !important;
+    }
+}

@@ -1,0 +1,107 @@
+.when{
+    padding-right: 250px;
+    padding-left: 250px;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.dollar{
+    color: black !important;
+}
+.per{
+    font-size: 18px !important;
+}
+.angle{
+    font-size: 16px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.fa{
+    font-size: 40px !important;
+    color: #97DAAD;
+}
+.fa1{
+    color: gray;
+    font-size: 40px !important;
+}
+.gety{
+    padding: 15px 70px;
+    border-radius: 30px;
+    background-color: #282938;
+    display: inline-block;
+    color: white;
+    transition: .6s;
+}
+.start{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.para1{
+    background-color: #F4F6FC;
+    border-radius: 15px;
+}
+.dollar{
+    padding-left: 50px;
+    padding-top: 50px;
+    color: black;
+}
+.land{
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.re{
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-right: 100px;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.705);
+}
+.start1{
+    padding-top: 10px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.angle1{
+    font-size: 16px;
+    padding-top: 15px;
+}
+.para1:hover{
+    background-color: #1C1E53;
+    color: white;
+    cursor: pointer;
+}
+.para1:hover .per{
+   color: #FCD980;
+}
+.para1:hover .dollar{
+    color: white !important;
+}
+.para1:hover .re{
+    color: white !important;
+}
+.para1:hover .gety{
+    background-color: #FCD980;
+    color: black !important;
+}
+.pricing_main{
+    padding-bottom: 100px;
+    margin-top: 200px;
+}
+.price{
+    font-size: 54px;
+    padding-bottom: 20px;
+}
+
+
+@media (max-width:767px){
+    .when {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}

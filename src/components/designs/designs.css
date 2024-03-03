@@ -1,0 +1,93 @@
+.designs_main{
+   margin-top: 200px;
+}
+
+.circle{
+    padding-bottom: 30px;
+}
+.pla{
+    padding-bottom: 15px;
+}
+.ip{
+    font-size: 18px;
+}
+.of{
+   padding-right: 350px;
+   text-align: center;
+}
+.div1{
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    border-radius: 5px;
+    background: #F4F6FC;
+    padding: 40px 50px;
+    width: 385px;
+    margin: auto;
+}
+.div1:hover{
+    box-shadow: 0 10px 15px rgba(0,0,0,.3) ;
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.note{
+    padding-bottom: 30px;
+}
+.cus{
+    font-size: 30px !important;
+    padding-bottom: 15px;
+}
+.l2{
+    font-size: 18px;
+}
+ .solve{
+    font-size: 50px;
+    padding-right: 100px;
+ }
+ .Ll{
+    padding-top: 20px;
+    font-size: 18px;
+    padding-right: 120px;
+ }
+ .tt{
+    background-color: #F4F5F5;
+ }
+ .ttt{
+    padding-top: 100px;
+ }
+ .who{
+    padding-top: 50px;
+ }
+ .oo{
+    padding-top: 20px;
+    padding-bottom: 60px;
+ }
+ .goal{
+    padding-top: 20px;
+ }
+ .cont{
+    padding-top: 70px;
+ }
+ .qq{
+    padding-top: 20px;
+    padding-right: 100px;
+ }
+ .thee{
+    padding-top: 100px;
+    padding-bottom: 100px;
+ }
+ .the{
+    padding-bottom: 60px;
+ }
+ .ip{
+    font-size: 18px;
+    padding-right: 80px;
+ }
+
+@media (max-width:767px){
+   .qq{
+    
+      padding-right: 0px;
+   }
+}

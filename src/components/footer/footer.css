@@ -1,0 +1,126 @@
+.footer_main{
+    background-color: #1C1E53;
+    padding-top: 40px;
+}
+.box4{
+    background-color: #FCD980;
+    padding-top: 20px;
+    padding-left: 50px ;
+    width: 420px !important;
+}
+.we{
+    color: white;
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 40px;
+    padding-right: 100px;
+}
+.email{
+    font-size: 18px;
+}
+.call{
+    font-size: 18px;
+}
+.talk{
+    color: white;
+    font-size: 30px;
+}
+.are{
+    color: white;
+    font-size: 20px;
+    padding-right:200px;
+}
+.link .icon1{
+    color: white;
+    font-size: 20px;
+}
+.twi{
+    color: white;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.insta{
+    color: white;
+    font-size: 20px; 
+    margin-left: 10px;
+}
+.in{
+    color: white;
+    font-size: 20px;  
+    margin-left: 10px;
+}
+.copy{
+    color: black;
+}
+.footer_img{
+
+}
+.contactwae{
+    s
+}
+
+@media (min-width:576px) and (max-width:767px){
+    .are {
+       
+        font-size: 14px;
+        padding-right: 0px;
+    }
+    .we {
+        padding-top: 12px;
+        font-size: 16px;
+        padding-right: 20px;
+    }
+    .talk {
+        font-weight: 600 !important;
+        font-size: 25px;
+    }
+    
+}
+
+@media(max-width:767px){
+    .are {
+        font-size: 13px;
+        padding-right: 0px;
+    }
+    .footer_img{
+      width: 100px;    
+    }
+    .we {
+        font-size: 12px;
+        padding-right: 0px;
+    }
+   .talk{
+    font-size: 18px;
+    font-weight: 500;
+   }
+   .link .icon1 {
+    font-size: 13px;
+}
+.twi {
+    font-size: 13px;
+}
+.insta {
+    font-size: 13px;
+}
+.in {
+    font-size: 13px;
+}
+.email {
+    font-size: 16px;
+}
+.box4 {
+    padding-left: 23px !important;
+    width: 314px !important;
+}
+.contactwae {
+    font-size: 12px;
+}
+.call {
+    font-size: 15px;
+    padding-left: 20px;
+}
+.contactee{
+    font-size: 12px;
+    padding-left: 20px;
+}
+}

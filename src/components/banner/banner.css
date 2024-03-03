@@ -1,0 +1,88 @@
+.banner_main{
+    background-color: #1C1E53 !important;
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.bui{
+   font-size: 55px !important;
+   padding-right: 160px;
+   color: white !important;
+}
+.banner_lorem{
+    padding-right: 160px;
+    font-size: 20px;
+    margin-top: 30px !important;
+    color: white;
+}
+.banner_pic{
+    padding-top: 30px !important;
+}
+.view .work{
+    border: 2px solid gold;
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin-top: 30px !important;
+    display: inline-block;
+    font-weight: 600;
+}
+.view .work:hover{
+    background-color:gold ;
+    color: black !important;
+}
+.view .work {
+    color: white !important;
+}
+.view .price {
+    color: white;
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: 400;
+    border: 2px solid gold;
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin-top: 30px !important;
+    display: inline-block;
+    font-weight: 600;
+}
+.view .price:hover{
+    background-color:gold ;
+    color: black !important;
+}
+.view .price:hover .icon{
+    color: black !important;
+}
+.icon{
+    color: white;
+    font-size: 20px;
+}
+
+@media (max-width:767px){
+    .bui {
+        font-size: 27px !important;
+        padding-right: 64px;
+        color: white !important;
+        margin-top: -30px;
+    }
+    .banner_lorem {
+        padding-right: 0px;
+        font-size: 16px;
+    }
+    .view .price {
+        margin-left: 4px;
+        font-size: 12px;
+        padding: 4px 10px;
+        border-radius: 20px;
+        margin-top: 10px !important;
+        font-weight: 500;
+    }
+    .view .work {
+        font-size: 12px;
+        padding: 4px 10px;
+        border-radius: 17px;
+        margin-top: 10px !important;
+        font-weight: 500;
+    }
+    .icon {
+        font-size: 12px;
+    }
+}

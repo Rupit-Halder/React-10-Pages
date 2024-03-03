@@ -1,0 +1,75 @@
+.student_main{
+    margin-top: 150px;
+}
+.aA{
+    padding-right: 200px !important;
+    font-size: 50px !important;
+}
+.pP{
+    padding-right: 180px !important;
+    font-size: 23px;
+    padding-top: 15px !important;
+}
+.group_pic{
+    margin-bottom: 40px;
+}
+.opopop{
+    font-size: 20px !important;
+    padding-right: 200px !important;
+}
+.reaas{
+    font-size: 23px !important;
+    font-weight: 600;
+    cursor: pointer;
+    padding-left: 55px;
+    padding-top: 10px;
+}
+.reaas:hover{
+    color: #2405F2;
+}
+.blssssss{
+    font-size: 58px !important;
+    margin-top: 100px;
+}
+.dte{
+margin-top: 20px;
+font-size: 20px !important;
+}
+.wer{
+    font-size: 26px !important;
+}
+.rtrt{
+    font-size: 20px !important;
+}
+.errt{
+    color: black ;
+    font-size: 18px !important;
+}
+.errt:hover{
+    color: #2405F2 !important;
+}
+.diw{
+  margin-bottom: 150px;
+}
+
+
+
+
+@media (max-width:767px){
+    .aA {
+        padding-right: 0px !important;
+        font-size: 32px !important;
+    }
+    .pP {
+        font-size: 16px;
+       padding-bottom: 20px;
+    }
+    .opopop {
+        font-size: 14px !important;
+        padding-right: 0px !important;
+    }
+    .reaas {
+        font-size: 18px !important;
+        margin-left: 165px;       
+    }
+}

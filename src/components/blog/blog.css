@@ -1,0 +1,55 @@
+.blog_main{
+    margin-top: 150px;
+    padding-bottom: 50px;
+}
+.how{
+    font-size: 25px !important;
+}
+.see{
+    font-size: 20px;
+}  
+.read{
+    font-size: 18px;
+    color: black;
+}
+.man{
+    padding-top: 20px;
+}
+.date{
+    margin-top: 20px;
+    font-size: 14px;
+}
+.blog23{
+    font-size: 45px !important;
+}
+
+
+
+@media (max-width:767px){
+    .blog23 {
+        font-size: 30px !important;
+    }
+    .how {
+        font-size: 20px !important;
+    }
+    .see {
+        font-size: 13px;
+    }
+   
+    .read {
+        font-size: 12px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px){
+    .how {
+        font-size: 20px !important;
+    }
+    .con {
+        padding-bottom: 50px;
+    }
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+      
+        font-size: 21px !important;
+    }
+}

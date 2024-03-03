@@ -1,0 +1,147 @@
+.fin_top{
+    margin-top: 150px;
+}
+.cover_img{
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.finsss{
+    font-size: 50px;
+    padding-right: 600px;
+}    
+.llmlm{
+    margin-top: 20px;
+    font-size: 18px;
+    padding-right: 400px; 
+    margin-bottom: 40px;
+}
+.faa{
+  font-size: 23px !important;
+}
+.border{
+    border: 2px solid rgba(0, 0, 0, 0.41) !important;
+    margin-bottom: 90px;
+}
+.popopp{
+    padding-right: 200px;
+    font-size: 19px;
+}
+.pro1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.cover1_img{
+    padding-right: 215px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}
+.li{
+    padding-top: 20px;
+    font-size: 18px;
+}
+.mnm{
+    font-size: 56px !important;
+    padding-left: 120px ;
+    padding-right: 200px;
+}
+.nuuuummmmm{
+ font-size: 23px;
+ padding-left: 220px;
+ padding-right: 290px;
+}
+.plpp{
+    display: inline-block;
+    padding: 15px 60px;
+    border: 2px solid #FCD980;
+    border-radius: 31px;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #1C1E53;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    margin-left: -50px;
+}
+.plpp:hover{
+    background-color: #FCD980;
+    color: black;
+}
+.nav-link{
+    color: black !important;
+    font-size: 25px !important;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.nav-link:hover{
+  color: #2405F2 !important;
+}
+.border3{
+    border: 2px solid rgba(0, 0, 0, 0.176);
+  
+}
+.border5{
+    border: 2px solid rgba(0, 0, 0, 0.176);
+    margin-top: 80px;
+}
+.kkk{
+    padding-left: 30px !important;
+}
+.lerrt{
+    margin-top: 100px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+   
+    background-color: transparent !important;
+    color: black !important;
+}
+.llk{
+    padding-left: 30px !important;
+    font-size: 25px !important;
+    font-weight: 600 !important;
+}
+.jkjk{
+    font-size: 25px !important;
+    font-weight: 600 !important; 
+}
+.cli{
+    font-size: 20px;
+}
+
+@media (max-width:767px){
+    .llmlm {
+       
+        padding-right: 0px;
+        margin-bottom: 40px;
+    }
+    .finsss {
+        
+        padding-right: 0px;
+    }
+    .faa {
+        font-size: 18px !important;
+    }
+    .cli {
+        font-size: 15px;
+    }
+    .popopp {
+        padding-right: 0px;
+    }
+    .cover1_img {
+        padding-right: 0px;
+    }
+    .mnm {
+        font-size: 43px !important;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .nuuuummmmm {
+        font-size: 18px;
+        padding-left: 80px;
+        padding-right: 80px;
+        padding-top: 20px;
+    }
+    .plpp{
+        margin-left: 30px;
+    }
+}

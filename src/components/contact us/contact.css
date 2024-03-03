@@ -1,0 +1,136 @@
+.contact_main{
+    margin-top: 200px ;
+  
+}
+.contact1{
+    font-size: 50px !important;
+    margin-left: 30px;
+}
+.lkkj{
+    padding-right: 220px !important;
+    font-size: 25px !important;
+    color: rgba(0, 0, 0, 0.639);
+    padding-bottom: 80px;
+    padding-top: 20px;
+}
+.box_main{
+    background-color: #F4F6FC;
+    height: 800px !important;
+    margin-right: 50px !important;
+    margin-bottom: 150px;
+    width: auto;
+    border-radius: 15px;
+}
+.name{
+    padding-top: 50px !important;
+    font-size: 25px !important;
+}
+.input_main{
+    padding-left: 20px !important;
+    height: 60px ;
+    width: 350px;
+   border-radius: 10px;
+   border-color: rgba(0, 0, 0, 0.355) ;
+   font-size: 25px;
+   font-weight: 600;
+   background-color: transparent;
+   border-color: rgba(0, 0, 0, 0.193);
+}
+
+.input_main2{
+    padding-left: 20px !important;
+    height: 60px ;
+    width: 350px;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.355) ;
+    font-size: 25px;
+    font-weight: 600;
+}
+.fast{
+    margin-left: 20px !important;
+    padding-top: 50px;
+}
+.sec{
+    margin-left: 20px !important; 
+    padding-top: 50px;
+}
+.mssge{
+    margin-top: 30px !important;
+    margin-left: 20px !important;
+}
+.mssg_input{
+    width: 920px !important;
+    height: 200px !important;
+    border-radius: 10px;
+    border-color: rgba(0, 0, 0, 0.355) ;
+    padding-left: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    background-color: transparent;
+    border-color: rgba(0, 0, 0, 0.202);
+}
+.send_one{
+    padding: 15px 40px ;
+    border: 2px solid black;
+    border-radius: 31px;
+    display: inline-block;
+    margin-top: 40px !important;
+    margin-left: 20px;
+    color: black;
+    font-size: 20px !important;
+    font-weight: 600;
+    transition: .4s;
+}
+.send_one:hover{
+    background-color: #282938;
+    color: white;
+}
+.mssg1{}
+
+@media (max-width:767px){
+    .contact1 {
+        font-size: 38px !important;
+        margin-left: 159px;
+    }
+    .lkkj {
+        padding-right: 0px !important;
+        font-size: 20px !important;
+    }
+    .box_main {
+        width: 520px !important;
+        height: 1500px;
+    }
+    .name {
+        margin-left: 70px;
+        font-size: 21px !important;
+    }
+    .input_main {
+        height: 43px;
+        width: 320px;
+        font-size: 17px; 
+        margin-left: 70px;
+    }
+    .mssg_input {
+        width: 320px !important;
+        height: 120px !important;
+        font-size: 16px;
+        margin-left: 70px;
+    }
+    .mssg1 {
+        margin-left: 70px;
+    }
+   
+    .send_one {
+        padding: 12px 27px;
+        font-size: 15px !important;
+        margin-left: 170px;
+    }
+    .fast{
+        margin-left: 20px !important;
+        padding-top: 0px;
+    }
+    .sec{
+        margin-left: 20px !important; 
+        padding-top: 0px;
+    }
+}

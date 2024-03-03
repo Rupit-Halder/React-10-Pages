@@ -1,0 +1,115 @@
+.about_main{
+    padding-top: 70px;
+    padding-bottom: 50px;
+    background-color: #F4F6FC;
+}
+.hw1{
+    font-size: 45px;
+    font-weight: 600;
+}
+.lorem234{
+    color: #222222a3;
+   font-size: 20px;
+   line-height: 30px;
+   margin-top: 20px;
+   
+}
+.Pp .getin{
+    color: #2405F2 !important;
+    font-size: 25px;
+    display: inline-block !important;
+    padding-bottom: 30px !important;
+    margin-left: -50px !important;
+}
+.eui{
+    color: rgba(0, 0, 0, 0.732) !important;
+    font-size: 18px;
+    line-height: 30px;
+    padding-right: 0px;
+}
+.strat{
+    margin-top: 10px;
+    font-size: 35px;
+}
+.design{
+    margin-top: 10px;
+    font-size: 35px; 
+}
+.Aa{
+    color: rgba(0, 0, 0, 0.732) !important;
+    font-size: 18px;
+    line-height: 30px;
+   
+}
+.wire{
+    margin-top: 10px;
+    font-size: 35px;
+}
+.tur{
+    color: rgba(0, 0, 0, 0.732) !important;
+    font-size: 18px;
+    line-height: 30px;
+   
+}
+.develop{
+    margin-top: 10px;
+    font-size: 35px;  
+}
+.Ee{
+    color: rgba(0, 0, 0, 0.732) !important;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.mo{}
+
+
+
+@media(max-width:767px){
+    .getin {
+        font-size: 18px !important;
+       
+    }
+    .mo {
+        margin-top: 40px;
+    }
+   
+    .hw1 {
+        font-size: 30px !important;
+        font-weight: 500 !important;
+    }
+    .lorem234 {
+        font-size: 13px;
+        line-height: 23px;
+        margin-top: 11px;
+    }
+    .strat {
+        font-size: 20px;
+    }
+    .eui {
+        font-size: 11px;
+        line-height: 24px;
+    }
+    .wire {
+        font-size: 20px;
+    }
+    .tur {
+        font-size: 11px;
+        line-height: 24px;
+    }
+    
+    .design {
+        font-size: 21px;
+    }
+    .develop {
+        font-size: 18px;
+    }
+    .Aa {
+        font-size: 11px;
+        line-height: 24px;
+    }
+    .Ee {
+        font-size: 11px;
+        line-height: 24px;
+    }
+}

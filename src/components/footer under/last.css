@@ -1,0 +1,88 @@
+.copy{
+    color: rgba(0, 0, 0, 0.671);
+    padding-top: 20px;
+    font-size: 18px;
+}
+.last_main{
+    margin-bottom: 50px;
+}
+.menu_under{
+    padding-top: 20px;
+    padding-left: 0px ;
+}
+.home2{
+    font-size: 18px ;
+    padding-left: 20px;
+    cursor: pointer;
+    color: black;
+}
+.about{
+    font-size: 18px ;
+    padding-left: 20px;
+    cursor: pointer;
+    color: black;
+}
+.fea{
+    font-size: 18px;
+    padding-left: 20px;
+    cursor: pointer;
+    color: black;
+}
+.pri{
+    font-size: 18px;
+    padding-left: 20px;
+    cursor: pointer;
+    color: black;
+}
+
+.blog{
+    font-size: 18px ;
+    padding-left: 20px;
+    cursor: pointer;
+    color: black;
+}
+
+
+
+
+@media (max-width:767px){
+    .copy {
+       
+        font-size: 16px;
+    }
+    .home2 {
+        font-size: 12px !important;
+     
+    }
+    .about {
+        font-size: 12px !important;
+       
+    }
+    .fea {
+        font-size: 12px !important;
+      
+    }
+    .pri {
+        font-size: 12px !important;
+    }
+   
+    .blog {
+        font-size: 12px !important;
+    }
+    .copy {
+        font-size: 12px;
+    }
+   
+}
+
+@media (min-width:768) and (max-width:991px){
+    .copy {
+        
+        font-size: 14px !important;
+    }
+    .home2 {
+        /* font-size: 18px; */
+       
+        font-size: 14px !important;
+    }
+}

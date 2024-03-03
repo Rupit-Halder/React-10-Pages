@@ -1,0 +1,48 @@
+.buildss{
+    font-size: 50px ;
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 80px;
+}
+.nuuuu{
+    font-size: 20px;
+    padding-left: 310px;
+    padding-right: 310px;
+    padding-top: 25px;
+}
+.contact123{
+    margin-top: 30px;
+    display: inline-block;
+    padding: 20px 80px;
+    font-size: 25px;
+    color: #fff;
+    border-radius: 41px;
+    font-weight: 600;
+    transition: .4s;
+    background-color: #1C1E53;
+}
+ .contact123:hover{
+    background-color: #FCD980;
+    color: #111;
+ }   
+.build_all{
+    padding-bottom: 80px;
+}
+
+@media (max-width:767px){
+    .buildss {
+        font-size: 43px;
+        padding-right: 0px;
+        padding-left: 0px;
+       
+    }
+    .nuuuu {
+       
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .contact123 {
+        padding: 10px 50px;
+        font-size: 20px;
+    }
+}

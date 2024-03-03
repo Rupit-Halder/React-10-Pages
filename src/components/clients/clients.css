@@ -1,0 +1,35 @@
+.clients_main{
+    background-color: #f4f6fc65;
+    padding-bottom: 120px;
+}
+.whttt{
+    font-size: 40px !important;
+    padding-top: 120px;
+}
+.opopui{
+    font-size: 20px !important;
+    padding-top: 20px;
+}
+.kjkhj{
+    font-size: 30px !important;
+    line-height: 45px;
+    padding-top: 120px;
+}
+
+
+@media (max-width:767px){
+    
+    .whttt {
+        font-size: 25px !important;
+        padding-top: 0px;
+    }
+    .opopui {
+        font-size: 16px !important;
+        padding-top: 10px;
+    }
+    .kjkhj {
+        font-size: 14px !important;
+        line-height: 20px;
+        padding-top: 20px;
+    }
+ }
